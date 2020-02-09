@@ -1,0 +1,4 @@
+[default]
+names = domain.com *.domain.com
+user = john
+token = abcde12345
